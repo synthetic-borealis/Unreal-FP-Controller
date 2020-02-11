@@ -16,3 +16,6 @@ The ladder and the crates were created by me and can be freely used in personal 
 
 ## Disclaimer
 The files in this repository are provided "as-is", without warranty of any kind.
+
+## Code License
+The code in this repository is intended for use in personal projects or for learning purposes. Do ***not*** use it for commercial purposes.
