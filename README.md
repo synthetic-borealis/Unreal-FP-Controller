@@ -8,7 +8,8 @@ Only keyboard input and mouse input are supported.
 ## Assets Licensing
 ### Crosshair
 Created by Winston Yallow (https://twitter.com/WinstonYallow) and licensed under CC0.
-[**Download**](https://opengameart.org/content/space-shoter-crosshairs)
+
+Download [**here**](https://opengameart.org/content/space-shoter-crosshairs).
 
 ### Crates & Ladder
 The ladder and the crates were created by me and can be freely used in personal projects.
